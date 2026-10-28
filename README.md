@@ -58,11 +58,11 @@ java -cp out ShelterCheckTest
 
 ## Development
 
-Written by [Nikosnakes] with the assistance of AI (Claude, by Anthropic), which produced most of the code and the documentation text from my design and testing. [Edit this paragraph so it accurately describes your own contribution.]
+Written by Nikosnakes with the assistance of AI (Claude, by Anthropic), which produced most of the code and the documentation text from my design and testing. [Edit this paragraph so it accurately describes your own contribution.]
 
 ## License
 
-See the `LICENSE` file.
+All Rights Reserved. See the `LICENSE` file.
 
 ## Credits
 
