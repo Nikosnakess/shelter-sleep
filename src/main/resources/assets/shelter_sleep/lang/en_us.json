@@ -1,0 +1,22 @@
+{
+  "shelter_sleep.midnightconfig.title": "Shelter Sleep",
+
+  "shelter_sleep.midnightconfig.requireRoof": "Require a roof",
+  "shelter_sleep.midnightconfig.requireRoof.tooltip": "On: the room needs an intact roof. Off: a missing roof or holes in the roof are ignored (without any roof the room is judged by its walls only, and windows are not tolerated).",
+  "shelter_sleep.midnightconfig.requireDoor": "Require a door",
+  "shelter_sleep.midnightconfig.requireDoor.tooltip": "On: the room needs at least one door. Off: you can sleep in a room without doors.",
+  "shelter_sleep.midnightconfig.minRoomSize": "Minimum room size",
+  "shelter_sleep.midnightconfig.minRoomSize.tooltip": "Free blocks inside the room, bed included. A 3x3 floor, 2 blocks high, is 18. Lower it to allow smaller shelters.",
+
+  "shelter_sleep.midnightconfig.maxWindowPercent": "Allowed wall openings (%)",
+  "shelter_sleep.midnightconfig.maxWindowPercent.tooltip": "How much of the walls can be open (windows without glass, gaps) and still count as a closed room.",
+  "shelter_sleep.midnightconfig.maxRoofHolePercent": "Allowed roof holes (%)",
+  "shelter_sleep.midnightconfig.maxRoofHolePercent.tooltip": "How much of the room can be without a roof (skylights). 0 means any hole in the roof shows 'I need a roof'.",
+
+  "shelter_sleep.midnightconfig.bypassInCreative": "Ignore rules in Creative mode",
+
+  "shelter_sleep.midnightconfig.msgNoRoof": "Message: no roof",
+  "shelter_sleep.midnightconfig.msgNoSpace": "Message: not enough space",
+  "shelter_sleep.midnightconfig.msgNoDoor": "Message: no door",
+  "shelter_sleep.midnightconfig.msgNoWalls": "Message: not enclosed"
+}

@@ -1,0 +1,22 @@
+{
+  "shelter_sleep.midnightconfig.title": "Shelter Sleep",
+
+  "shelter_sleep.midnightconfig.requireRoof": "Richiedi un tetto",
+  "shelter_sleep.midnightconfig.requireRoof.tooltip": "Attivo: la stanza deve avere un tetto integro. Disattivo: un tetto mancante o bucato viene ignorato (senza alcun tetto la stanza e' valutata solo dai muri e le finestre non sono tollerate).",
+  "shelter_sleep.midnightconfig.requireDoor": "Richiedi una porta",
+  "shelter_sleep.midnightconfig.requireDoor.tooltip": "Attivo: la stanza deve avere almeno una porta. Disattivo: si puo' dormire anche in una stanza senza porte.",
+  "shelter_sleep.midnightconfig.minRoomSize": "Dimensione minima della stanza",
+  "shelter_sleep.midnightconfig.minRoomSize.tooltip": "Blocchi liberi dentro la stanza, letto compreso. Un pavimento 3x3 alto 2 blocchi vale 18. Abbassalo per permettere rifugi piu' piccoli.",
+
+  "shelter_sleep.midnightconfig.maxWindowPercent": "Aperture ammesse nei muri (%)",
+  "shelter_sleep.midnightconfig.maxWindowPercent.tooltip": "Quanta parte dei muri puo' essere aperta (finestre senza vetro, buchi) e contare comunque come stanza chiusa.",
+  "shelter_sleep.midnightconfig.maxRoofHolePercent": "Buchi ammessi nel tetto (%)",
+  "shelter_sleep.midnightconfig.maxRoofHolePercent.tooltip": "Quanta parte della stanza puo' essere senza tetto (lucernari). Con 0 qualsiasi buco nel tetto mostra 'I need a roof'.",
+
+  "shelter_sleep.midnightconfig.bypassInCreative": "Ignora le regole in modalita' Creativa",
+
+  "shelter_sleep.midnightconfig.msgNoRoof": "Messaggio: manca il tetto",
+  "shelter_sleep.midnightconfig.msgNoSpace": "Messaggio: spazio insufficiente",
+  "shelter_sleep.midnightconfig.msgNoDoor": "Messaggio: manca la porta",
+  "shelter_sleep.midnightconfig.msgNoWalls": "Messaggio: area non chiusa"
+}

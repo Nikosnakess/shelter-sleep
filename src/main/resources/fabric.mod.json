@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "shelter_sleep",
+  "version": "${version}",
+  "name": "Shelter Sleep",
+  "description": "You can only sleep in a bed if you have proper shelter: a roof, enough space and a door. Windows are allowed.",
+  "authors": [],
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.sheltersleep.ShelterSleep"],
+    "modmenu": ["com.sheltersleep.ModMenuIntegration"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}
