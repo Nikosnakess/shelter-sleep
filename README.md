@@ -58,7 +58,7 @@ java -cp out ShelterCheckTest
 
 ## Development
 
-Written by [your name] with the assistance of AI (Claude, by Anthropic), which produced most of the code and the documentation text from my design and testing. [Edit this paragraph so it accurately describes your own contribution.]
+Written by [Nikosnakes] with the assistance of AI (Claude, by Anthropic), which produced most of the code and the documentation text from my design and testing. [Edit this paragraph so it accurately describes your own contribution.]
 
 ## License
 
